@@ -8,18 +8,23 @@ const jsxHeading = (
   </h1>
 );
 
-const elem = React.createElement('h1',{id:"abc"},'Hey Geek');
-
+//jsx takes care of injection attacks, it sanitizes our data
 //React Component
 const Title = () => (
-  <h1>This is Title</h1>
+  <div>
+    <h1>{jsxHeading}</h1>
+    <h2>React element inside react component</h2>
+  </div>
 
 )
 
 //component composition => nested components
 const Func = () => (
   <div id="container">
+    {Title()}
+    <Title></Title>
     <Title/>
+    {1000}
     <h1 className="head">Hi this is Riya</h1>
   </div>
 );
