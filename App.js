@@ -1,9 +1,21 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-const parent = React.createElement("div", { id: "parent" }, React.createElement("div", {
-    id: "child"
-}, [React.createElement("h1", {}, "This is foodie express"), React.createElement("h2", {}, "I am an h2 tag")]));
+//React Element
+const jsxHeading = (
+  <h1 id="heading" className="head">
+    Hello World
+  </h1>
+);
+
+const elem = React.createElement('h1',{id:"abc"},'Hey Geek');
+
+//React Component
+const func = () => {
+  <div id="container">
+    <h1 className="head">Hi this is Riya</h1>
+  </div>;
+};
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(parent); //it is converting the heading into h1 tag
+root.render(jsxHeading);
