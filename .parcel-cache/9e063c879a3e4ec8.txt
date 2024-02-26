@@ -28,9 +28,9 @@
 82C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\browserslist\browser.js133531575101654695 0
 72C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\css-tree\dist133531575119236084 1
 81C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\lightningcss\README.md133531575104872116 0
-69C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.9e4c6fd2.css133533418656424277 0
+69C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.9e4c6fd2.css133533909068954707 0
 126C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Url.js133531575144415920 0
-50C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist133533419928969910 1
+50C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist133533922716662617 1
 107C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\caniuse-lite\data\features\css-widows-orphans.js133531575118916885 0
 77C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\msgpackr\pack.d.ts133531575111058447 0
 56C:\Users\joshi\OneDrive\Desktop\FoodieExpress\index.html133533376691294689 0
@@ -48,7 +48,7 @@
 123C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\jsAPI.d.ts133531575143736243 0
 68C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\type-fest133531575104440621 1
 90C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\caniuse-lite\data\regions\SM.js133531575135497764 0
-55C:\Users\joshi\OneDrive\Desktop\FoodieExpress\index.css133533338031825054 0
+55C:\Users\joshi\OneDrive\Desktop\FoodieExpress\index.css133533629499754148 0
 79C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\svgo\lib\svgo\coa.js133531575106392838 0
 75C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\timsort\index.js133531575097860653 0
 81C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\tslib\modules\index.js133531575097654387 0
@@ -120,7 +120,7 @@
 126C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\generator\index.js133531575140888419 0
 85C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\csso\cjs\replace\Value.cjs133531575108241821 0
 75C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\srcset\readme.md133531575099634881 0
-68C:\Users\joshi\OneDrive\Desktop\FoodieExpress\src\components\Body.js133533407778607890 0
+68C:\Users\joshi\OneDrive\Desktop\FoodieExpress\src\components\Body.js133533922714681374 0
 97C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\@swc\helpers\cjs\_array_with_holes.cjs133531575100487573 0
 111C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\csso\node_modules\css-tree\cjs\syntax\config\mix.cjs133531575134427045 0
 80C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\csso\dist\csso.esm.js133531575110848629 0
@@ -2869,7 +2869,7 @@
 110C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\@babel\highlight\node_modules\ansi-styles\readme.md133531575135880767 0
 108C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\css-tree\cjs\syntax\node\index-parse-selector.cjs133531575110143680 0
 89C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\csso\node_modules\mdn-data\css133531575133838047 1
-68C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.7271efb6.js133533419928969910 0
+68C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.7271efb6.js133533922716592571 0
 104C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\caniuse-lite\data\features\css-paged-media.js133531575117658136 0
 93C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\csso\node_modules\mdn-data\LICENSE133531575132598850 0
 91C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\cosmiconfig\dist\Explorer.js.map133531575101866829 0
@@ -4004,7 +4004,7 @@
 103C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\caniuse-lite\data\features\object-observe.js133531575130855589 0
 90C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\caniuse-lite\data\regions\KM.js133531575127496808 0
 90C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\caniuse-lite\data\regions\KN.js133531575127542108 0
-61C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.html133533418656727448 0
+61C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.html133533909068954707 0
 90C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\caniuse-lite\data\regions\KW.js133531575127657262 0
 70C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\.bin\parcel133531575160246935 0
 90C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\caniuse-lite\data\regions\LI.js133531575127938141 0
@@ -6040,8 +6040,8 @@
 74C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\.bin\semver.ps1133531575160246935 0
 72C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\.bin\svgo.cmd133531575160226942 0
 86C:\Users\joshi\OneDrive\Desktop\FoodieExpress\node_modules\.bin\update-browserslist-db133531575160337290 0
-72C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.7271efb6.js.map133533419928969910 0
+72C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.7271efb6.js.map133533922716652630 0
 68C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.7826abd7.js133533359022548202 0
 72C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.7826abd7.js.map133533359022616608 0
-73C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.9e4c6fd2.css.map133533418656515588 0
-68C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\logo.3eb009db.png133533418656478495 0
+73C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\index.9e4c6fd2.css.map133533909069105305 0
+68C:\Users\joshi\OneDrive\Desktop\FoodieExpress\dist\logo.3eb009db.png133533909068919806 0
